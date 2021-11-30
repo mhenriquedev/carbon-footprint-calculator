@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## carbon-footprint-calculator
 
-Frontend made for SINAI coding exercise. You can find the backend [here](https://github.com/facebook/create-react-app).
+Frontend made for SINAI coding exercise. You can find the backend [here](https://github.com/mhenriquedev/cfc).
 
 ## Project Status
 
